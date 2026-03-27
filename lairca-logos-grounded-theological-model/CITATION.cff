@@ -1,9 +1,9 @@
 cff-version: 1.2.0
-title: "LAIRCA Orthodox Christian Theological Model"
+title: "LAIRCA Logos Grounded Theological Model"
 message: "If you use this repository, please cite it using this metadata."
 type: software
 authors:
   - family-names: "Wong"
     given-names: "Lowell T."
 repository-code: "https://github.com/lowelltwong-alt/lairca-logos-grounded-theological-model"
-license: "MIT"
+license: "CC-BY-4.0"
