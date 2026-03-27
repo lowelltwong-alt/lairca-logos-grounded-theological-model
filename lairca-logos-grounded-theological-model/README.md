@@ -1,4 +1,4 @@
-# LAIRCA Orthodox Christian Theological Model
+# LAIRCA Logos Christian Theological Model
 
 A fractal, machine-readable theological parent model for LAIRCA, built as a sister repository to the AIRCA Fractal Decision Architecture project.
 
