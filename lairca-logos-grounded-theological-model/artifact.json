@@ -1,0 +1,398 @@
+{
+  "node_type": "theological_parent_model",
+  "artifact_type": "Decision-Enabling Artifact (Second-Order Core)",
+  "identity": {
+    "id": "lairca_orthodox_christian_theological_model_root",
+    "anchor": "root.lairca_orthodox_christian_theological_model",
+    "title": "LAIRCA Orthodox Christian Theological Model",
+    "slug": "lairca-logos-grounded-theological-model",
+    "version": "v1",
+    "status": "draft"
+  },
+  "classification": {
+    "document_type": "ai_interrogatable_system",
+    "primary_use": "decision_support",
+    "domain": "theology",
+    "subdomain": "christian_decision_architecture",
+    "object_type": "repository_root",
+    "tags": [
+      "theology",
+      "lairca",
+      "orthodox_christianity",
+      "fractal_architecture",
+      "decision_governance"
+    ],
+    "audience_tags": [
+      "ceo_theological",
+      "chief_of_staff_bridge",
+      "research_builder"
+    ],
+    "source_domains": [
+      "scripture",
+      "theology",
+      "christian_ethics",
+      "institutional_discernment",
+      "ai_governance"
+    ]
+  },
+  "system": {
+    "system_role": "operating_system_layer",
+    "intent": "Provide the theological source architecture and doctrinal ordering substrate for LAIRCA and downstream applications.",
+    "author_logic": "Keep AIRCA operationally clean by locating Christian source architecture in a sister repository while preserving tight cross-references and mirrored structure.",
+    "ai_compatibility": "high",
+    "interaction_mode": "interrogate",
+    "requires_human_judgment": true
+  },
+  "relationships": {
+    "parent": "",
+    "parents": [],
+    "children": [
+      "docs",
+      "schemas",
+      "registry",
+      "examples"
+    ],
+    "depends_on": [
+      "https://github.com/lowelltwong-alt/airca-fractal-decision-architecture"
+    ],
+    "enables": [
+      "LAIRCA_instantiation",
+      "Habitat_derivation",
+      "Christian_AI_governance"
+    ],
+    "related_to": [
+      "https://github.com/lowelltwong-alt/airca-fractal-decision-architecture"
+    ],
+    "supersedes": [],
+    "superseded_by": [],
+    "relationship_metadata": {
+      "dependency_strength": [
+        "high"
+      ],
+      "critical_dependencies": [
+        "https://github.com/lowelltwong-alt/airca-fractal-decision-architecture"
+      ],
+      "informational_dependencies": [
+        "Habitat theological layering brief"
+      ],
+      "blocking_dependencies": []
+    }
+  },
+  "logic": {
+    "inputs": [
+      "orthodox Christian theological sources",
+      "doctrine nodes",
+      "ordering profiles",
+      "weighting profiles",
+      "institution-specific use cases"
+    ],
+    "outputs": [
+      "theology-to-LAIRCA crosswalks",
+      "derivation chains",
+      "application-ready ordering profiles",
+      "translation-ready summaries"
+    ],
+    "decision_type": "governance",
+    "output_type": "operating_model",
+    "constraints": [
+      "broad orthodox core",
+      "modular overlays",
+      "human review for structural changes"
+    ],
+    "assumptions": [
+      "doctrines are stable objects",
+      "orderings can vary by use case",
+      "AI should not own final moral judgment"
+    ],
+    "tradeoffs": [
+      "breadth vs precision",
+      "ecumenical reuse vs confessional specificity",
+      "source richness vs operational simplicity"
+    ],
+    "evaluation_criteria": [
+      "lineage clarity",
+      "ordering transparency",
+      "modularity",
+      "retrievability",
+      "cross-repo coherence"
+    ],
+    "success_metrics": [
+      "usable as sister repo to AIRCA",
+      "supports Habitat derivation",
+      "supports optional local overlays"
+    ]
+  },
+  "execution": {
+    "recommended_actions": [
+      "populate canon nodes",
+      "populate doctrine nodes",
+      "fill ordering profiles",
+      "connect Habitat examples"
+    ],
+    "ai_prompt_template": "Trace this doctrine or theologian through ordering logic into LAIRCA and any downstream application nodes.",
+    "human_instructions": [
+      "Review canon membership",
+      "approve structural changes",
+      "decide default ordering profiles"
+    ],
+    "implementation_notes": [
+      "Mirror AIRCA repo logic rather than only its folder names."
+    ],
+    "risks": [
+      "theological sprawl",
+      "narrow confessional drift",
+      "uncontrolled overlays"
+    ],
+    "mitigations": [
+      "core vs extension separation",
+      "optional module boundaries",
+      "explicit lineage and weighting rules"
+    ]
+  },
+  "governance": {
+    "owner": "Lowell T. Wong",
+    "reviewers": [],
+    "decision_rights": [
+      "structural change",
+      "default ordering approval",
+      "canon inclusion policy"
+    ],
+    "approval_required": true,
+    "review_cycle": "quarterly",
+    "sensitivity": "internal",
+    "retention_guidance": "Retain as long-lived parent architecture."
+  },
+  "evidence": {
+    "citations": [],
+    "data_sources": [
+      "AIRCA repo",
+      "Habitat theological layering brief",
+      "fractal artifact schema v2"
+    ],
+    "confidence": "high",
+    "confidence_notes": "Built directly from the existing recursive artifact logic and Habitat theological weighting precedent.",
+    "confidence_model": {
+      "overall_confidence": "high",
+      "evidence_quality": "high",
+      "source_freshness": "current",
+      "completeness": "medium",
+      "model_confidence": "high",
+      "human_review_status": "pending",
+      "confidence_rationale": "Scaffold is strong; content population remains open."
+    }
+  },
+  "persistence": {
+    "decision_ledger_entry": {
+      "problem": "Need a separate but connected theological parent model for LAIRCA that mirrors AIRCA fractal logic.",
+      "options_considered": [
+        "embed theology into AIRCA repo",
+        "create sister repo",
+        "create subfolder only"
+      ],
+      "criteria_used": [
+        "modularity",
+        "clarity",
+        "cross-repo coherence",
+        "reuse"
+      ],
+      "decision_made": "Create sister repository with mirrored fractal structure and explicit crosswalks.",
+      "expected_outcome": "Cleaner AIRCA repo and more rigorous theological substrate.",
+      "actual_outcome": "",
+      "follow_up_date": ""
+    }
+  },
+  "content": {
+    "summary": "A connected sister repository to AIRCA that houses the Christian theological source architecture for LAIRCA.",
+    "body": "",
+    "attachments": [],
+    "examples": [
+      "Habitat ordering profile",
+      "theology-to-LAIRCA derivation chain"
+    ]
+  },
+  "time": {
+    "created_at": "2026-03-27",
+    "updated_at": "2026-03-27",
+    "effective_date": "2026-03-27",
+    "review_date": "",
+    "expires_at": ""
+  },
+  "permissions": {
+    "visibility": "internal",
+    "allowed_audiences": [
+      "author",
+      "collaborators"
+    ],
+    "restricted_audiences": [],
+    "usage_notes": "Publish after content population and human review.",
+    "action_permissions": {
+      "agent_may_read": true,
+      "agent_may_summarize": true,
+      "agent_may_tag": true,
+      "agent_may_propose_edits": true,
+      "agent_may_create_child_nodes": false,
+      "agent_may_merge_nodes": false,
+      "agent_may_archive": false,
+      "agent_may_delete": false,
+      "human_signoff_required_for_publish": true,
+      "human_signoff_required_for_supersession": true,
+      "human_signoff_required_for_structural_change": true
+    }
+  },
+  "provenance": {
+    "source_refs": [
+      "fractal_decision_artifact_schema_v2",
+      "fractal_decision_artifact_template_v2",
+      "Habitat_AI_Framework_Discussion_Brief"
+    ],
+    "derived_from": [
+      "https://github.com/lowelltwong-alt/airca-fractal-decision-architecture"
+    ],
+    "created_by": "Lowell T. Wong",
+    "last_modified_by": "OpenAI GPT-5.4 Thinking (assistant acting on user request)",
+    "transformation_history": [],
+    "derivation_method": "Mirrored AIRCA-style scaffold extended with theology-specific field logic.",
+    "process_refs": [],
+    "authoring_mix": {
+      "human_authored_percent": "60",
+      "ai_assisted_percent": "40"
+    }
+  },
+  "validation": {
+    "required_fields": [
+      "identity.title",
+      "classification.domain",
+      "system.intent"
+    ],
+    "field_rules": [],
+    "status_checks": [
+      "cross-repo references present",
+      "root branches present",
+      "ordering branch present"
+    ],
+    "fit_notes": "Designed to absorb future theologians, doctrines, orderings, and overlays without redesign.",
+    "interpretation_checks": [
+      "Blank values must not be treated as destructive permissions.",
+      "Child overrides must not weaken parent protections without explicit human approval."
+    ]
+  },
+  "entity_model": {
+    "entity_type": "repository",
+    "entity_subtype": "theological_parent_model",
+    "canonical_id": "repo.lairca_orthodox_christian_theological_model",
+    "lifecycle_state": "draft",
+    "canonical_status": "working_root",
+    "source_of_truth_ref": "README.md",
+    "aliases": [
+      "LAIRCA theology repo"
+    ]
+  },
+  "fractal_fit_algorithm": {
+    "purpose": "Absorb future things into the stable recursive structure.",
+    "core_rule": "Model new things as nodes first, then as existing field family members, then as vocabulary extensions, and only lastly as new optional field families.",
+    "fit_order": [
+      "identity",
+      "classification",
+      "system",
+      "relationships",
+      "logic",
+      "execution",
+      "governance",
+      "lifecycle",
+      "permissions",
+      "provenance",
+      "validation",
+      "entity_model",
+      "evidence",
+      "persistence",
+      "content",
+      "subnodes"
+    ],
+    "extension_rules": [
+      "Prefer new node_type values before new top-level sections.",
+      "Prefer controlled vocabulary expansion before structural redesign.",
+      "Prefer optional field groups before changing the recursive skeleton.",
+      "Prefer relationships and subnodes before duplicating data.",
+      "Only add a new top-level field family if the new thing cannot fit any existing category without distortion.",
+      "Prefer inheritance and stricter control defaults before local overrides.",
+      "Prefer adding dormant optional fields over redesigning the recursive shell.",
+      "Never allow blank values to imply destructive permission."
+    ],
+    "future_ontology_rule": "Promote repeated concepts into typed objects when they become reusable across many nodes, including tradition overlays, ordering profiles, and derivation chains."
+  },
+  "subnodes": [],
+  "lifecycle": {
+    "artifact_tier": "second_order_core",
+    "artifact_class": "repository_root",
+    "durability": "long_lived",
+    "state": "draft",
+    "last_reviewed_at": "2026-03-27",
+    "next_review_due": "2026-06-30",
+    "refresh_interval_days": "90",
+    "staleness_rule": "Review when canon or default ordering logic changes.",
+    "disposition_recommendation": "",
+    "disposition_reason": "",
+    "archive_after": "",
+    "delete_after": "",
+    "deletion_allowed": false,
+    "human_approval_required_for_delete": true,
+    "human_approval_required_for_archive": true,
+    "human_approval_required_for_supersession": true,
+    "minimum_approvers_for_delete": "1",
+    "required_approver_roles": [
+      "owner"
+    ],
+    "agent_may_propose_delete": true,
+    "agent_may_execute_delete": false,
+    "agent_may_execute_archive": false,
+    "protected_from_autonomous_deletion": true,
+    "supersession_policy": "Supersede only with explicit human approval.",
+    "refresh_trigger_events": [
+      "default ordering changes",
+      "new doctrine families added",
+      "major integration changes"
+    ],
+    "invalidation_trigger_events": [],
+    "next_human_action": "Populate canon and doctrine nodes."
+  },
+  "inheritance": {
+    "inherits_from_parent_by_default": true,
+    "inherit_if_blank": [
+      "governance.owner",
+      "governance.review_cycle",
+      "permissions.visibility",
+      "permissions.allowed_audiences",
+      "classification.domain",
+      "classification.subdomain",
+      "lifecycle.artifact_tier",
+      "lifecycle.state"
+    ],
+    "fields_never_inherited": [
+      "identity.id",
+      "identity.anchor",
+      "identity.title",
+      "provenance.created_by",
+      "time.created_at"
+    ],
+    "child_may_override": [
+      "governance.owner",
+      "governance.review_cycle",
+      "permissions.visibility",
+      "permissions.allowed_audiences",
+      "lifecycle.next_review_due",
+      "lifecycle.disposition_recommendation"
+    ],
+    "parent_protection_flows_down": true,
+    "stricter_child_controls_allowed": true,
+    "looser_child_controls_require_human_approval": true,
+    "conflict_resolution_rule": "When parent and child conflict, the stricter control wins unless a human explicitly approves a local override."
+  },
+  "interpretation_rules": {
+    "missing_field_means": "not used on this node",
+    "empty_value_means": "reserved but not yet populated",
+    "explicit_false_means": "intentionally disabled",
+    "explicit_true_means": "active rule",
+    "never_infer_destructive_action_from_blank": true,
+    "blank_fields_are_behaviorally_dormant_until_populated": true
+  }
+}

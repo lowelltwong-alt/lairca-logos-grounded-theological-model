@@ -1,0 +1,32 @@
+[
+  {
+    "id": "default_lairca",
+    "title": "Default LAIRCA Ordering",
+    "profile_type": "default_lairca"
+  },
+  {
+    "id": "habitat_weighted",
+    "title": "Habitat Weighted Ordering",
+    "profile_type": "habitat_default"
+  },
+  {
+    "id": "order_a_god_person_institution",
+    "title": "Order A",
+    "profile_type": "alternative_profile"
+  },
+  {
+    "id": "order_b_love_justice_prudence",
+    "title": "Order B",
+    "profile_type": "alternative_profile"
+  },
+  {
+    "id": "order_c_ontology_anthropology_vocation",
+    "title": "Order C",
+    "profile_type": "alternative_profile"
+  },
+  {
+    "id": "order_d_mission_dignity_participation",
+    "title": "Order D",
+    "profile_type": "alternative_profile"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "theology_proper",
+    "title": "Theology Proper",
+    "canon_status": "core"
+  },
+  {
+    "id": "imago_dei",
+    "title": "Imago Dei",
+    "canon_status": "core"
+  },
+  {
+    "id": "personhood_and_dignity",
+    "title": "Personhood and Dignity",
+    "canon_status": "core"
+  },
+  {
+    "id": "ordered_loves",
+    "title": "Ordered Loves",
+    "canon_status": "core"
+  },
+  {
+    "id": "sin_and_distortion",
+    "title": "Sin and Distortion",
+    "canon_status": "core"
+  },
+  {
+    "id": "justice",
+    "title": "Justice",
+    "canon_status": "core"
+  },
+  {
+    "id": "prudence",
+    "title": "Prudence",
+    "canon_status": "core"
+  },
+  {
+    "id": "stewardship",
+    "title": "Stewardship",
+    "canon_status": "core"
+  },
+  {
+    "id": "vocation",
+    "title": "Vocation",
+    "canon_status": "core"
+  },
+  {
+    "id": "mission",
+    "title": "Mission",
+    "canon_status": "core"
+  },
+  {
+    "id": "power",
+    "title": "Power",
+    "canon_status": "core"
+  },
+  {
+    "id": "truth_order_logos",
+    "title": "Truth, Order, and Logos",
+    "canon_status": "core"
+  },
+  {
+    "id": "formation",
+    "title": "Formation",
+    "canon_status": "core"
+  },
+  {
+    "id": "service",
+    "title": "Service",
+    "canon_status": "core"
+  },
+  {
+    "id": "common_grace",
+    "title": "Common Grace",
+    "canon_status": "extension"
+  },
+  {
+    "id": "creation_care",
+    "title": "Creation Care",
+    "canon_status": "extension"
+  }
+]

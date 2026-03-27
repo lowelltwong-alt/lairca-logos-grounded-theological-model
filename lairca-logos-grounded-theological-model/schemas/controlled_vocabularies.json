@@ -1,0 +1,40 @@
+{
+  "canon_status": [
+    "core",
+    "extension",
+    "optional_module",
+    "local_overlay",
+    "contested"
+  ],
+  "tradition_scope": [
+    "ecumenical",
+    "reformed",
+    "baptist",
+    "anglican",
+    "catholic",
+    "eastern_orthodox",
+    "evangelical",
+    "multi_tradition"
+  ],
+  "ordering_profile_type": [
+    "default_lairca",
+    "habitat_default",
+    "alternative_profile",
+    "local_override"
+  ],
+  "entity_subtypes": [
+    "theologian_node",
+    "doctrine_node",
+    "ordering_profile",
+    "weighting_profile",
+    "derivation_node",
+    "integration_node"
+  ],
+  "system_roles": [
+    "ontology_layer",
+    "governance_layer",
+    "evidence_layer",
+    "translation_layer",
+    "operating_system_layer"
+  ]
+}

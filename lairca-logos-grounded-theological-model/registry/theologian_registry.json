@@ -1,0 +1,227 @@
+[
+  {
+    "id": "augustine",
+    "name": "Augustine",
+    "canon_status": "core",
+    "tradition_scope": "ecumenical",
+    "primary_domains": [
+      "ordered_loves",
+      "power",
+      "humility",
+      "ends"
+    ]
+  },
+  {
+    "id": "athanasius",
+    "name": "Athanasius",
+    "canon_status": "core",
+    "tradition_scope": "ecumenical",
+    "primary_domains": [
+      "christology",
+      "incarnation",
+      "personhood"
+    ]
+  },
+  {
+    "id": "irenaeus",
+    "name": "Irenaeus",
+    "canon_status": "core",
+    "tradition_scope": "ecumenical",
+    "primary_domains": [
+      "recapitulation",
+      "creation",
+      "human_flourishing"
+    ]
+  },
+  {
+    "id": "thomas_aquinas",
+    "name": "Thomas Aquinas",
+    "canon_status": "core",
+    "tradition_scope": "ecumenical",
+    "primary_domains": [
+      "natural_law",
+      "reason",
+      "virtue",
+      "metaphysics"
+    ]
+  },
+  {
+    "id": "calvin",
+    "name": "John Calvin",
+    "canon_status": "core",
+    "tradition_scope": "reformed",
+    "primary_domains": [
+      "sovereignty",
+      "anthropology",
+      "vocation",
+      "institutions"
+    ]
+  },
+  {
+    "id": "bavinck",
+    "name": "Herman Bavinck",
+    "canon_status": "core",
+    "tradition_scope": "reformed",
+    "primary_domains": [
+      "dogmatics",
+      "culture",
+      "common_grace",
+      "anthropology"
+    ]
+  },
+  {
+    "id": "kuyper",
+    "name": "Abraham Kuyper",
+    "canon_status": "core",
+    "tradition_scope": "reformed",
+    "primary_domains": [
+      "sphere_sovereignty",
+      "public_theology",
+      "institutions"
+    ]
+  },
+  {
+    "id": "packer",
+    "name": "J.I. Packer",
+    "canon_status": "core",
+    "tradition_scope": "evangelical",
+    "primary_domains": [
+      "systematics",
+      "holiness",
+      "discipleship"
+    ]
+  },
+  {
+    "id": "sproul",
+    "name": "R.C. Sproul",
+    "canon_status": "core",
+    "tradition_scope": "evangelical",
+    "primary_domains": [
+      "holiness",
+      "systematics",
+      "authority"
+    ]
+  },
+  {
+    "id": "keller",
+    "name": "Tim Keller",
+    "canon_status": "core",
+    "tradition_scope": "evangelical",
+    "primary_domains": [
+      "justice",
+      "vocation",
+      "city",
+      "public_faithfulness"
+    ]
+  },
+  {
+    "id": "stott",
+    "name": "John Stott",
+    "canon_status": "core",
+    "tradition_scope": "evangelical",
+    "primary_domains": [
+      "mission",
+      "public_theology",
+      "ethics"
+    ]
+  },
+  {
+    "id": "schaeffer",
+    "name": "Francis Schaeffer",
+    "canon_status": "core",
+    "tradition_scope": "evangelical",
+    "primary_domains": [
+      "culture",
+      "modernity",
+      "worldview"
+    ]
+  },
+  {
+    "id": "willard",
+    "name": "Dallas Willard",
+    "canon_status": "core",
+    "tradition_scope": "evangelical",
+    "primary_domains": [
+      "formation",
+      "agency",
+      "discipleship"
+    ]
+  },
+  {
+    "id": "nouwen",
+    "name": "Henri Nouwen",
+    "canon_status": "core",
+    "tradition_scope": "catholic",
+    "primary_domains": [
+      "service",
+      "humility",
+      "leadership"
+    ]
+  },
+  {
+    "id": "odonovan",
+    "name": "Oliver O'Donovan",
+    "canon_status": "core",
+    "tradition_scope": "anglican",
+    "primary_domains": [
+      "political_theology",
+      "authority",
+      "judgment"
+    ]
+  },
+  {
+    "id": "piper",
+    "name": "John Piper",
+    "canon_status": "extension",
+    "tradition_scope": "evangelical",
+    "primary_domains": [
+      "glory",
+      "desire",
+      "ends"
+    ]
+  },
+  {
+    "id": "grudem",
+    "name": "Wayne Grudem",
+    "canon_status": "extension",
+    "tradition_scope": "evangelical",
+    "primary_domains": [
+      "systematic_theology",
+      "anthropology",
+      "stewardship"
+    ]
+  },
+  {
+    "id": "lewis",
+    "name": "C.S. Lewis",
+    "canon_status": "extension",
+    "tradition_scope": "anglican",
+    "primary_domains": [
+      "moral_imagination",
+      "reason",
+      "virtue"
+    ]
+  },
+  {
+    "id": "newbigin",
+    "name": "Lesslie Newbigin",
+    "canon_status": "extension",
+    "tradition_scope": "evangelical",
+    "primary_domains": [
+      "mission",
+      "public_truth",
+      "culture"
+    ]
+  },
+  {
+    "id": "nt_wright",
+    "name": "N.T. Wright",
+    "canon_status": "extension",
+    "tradition_scope": "anglican",
+    "primary_domains": [
+      "resurrection",
+      "kingdom",
+      "public_theology"
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "profile_id": "",
+  "title": "",
+  "scope": "",
+  "status": "draft",
+  "description": "",
+  "sequence": [],
+  "weights": [],
+  "strengths": [],
+  "limitations": [],
+  "blind_spots": [],
+  "best_fit_for": [],
+  "not_ideal_for": [],
+  "derived_from_doctrines": [],
+  "translation_notes": [],
+  "human_approval_required_for_default_use": true,
+  "related_repos": [
+    "https://github.com/lowelltwong-alt/airca-fractal-decision-architecture"
+  ],
+  "author_attribution": "Lowell T. Wong"
+}
