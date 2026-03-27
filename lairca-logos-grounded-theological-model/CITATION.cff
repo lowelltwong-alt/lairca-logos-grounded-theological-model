@@ -5,5 +5,11 @@ type: software
 authors:
   - family-names: "Wong"
     given-names: "Lowell T."
+version: "0.1.0"
+date-released: "2026-03-27"
 repository-code: "https://github.com/lowelltwong-alt/lairca-logos-grounded-theological-model"
 license: "CC-BY-4.0"
+abstract: >
+  A public theological and decision-framework repository developing a
+  Logos-grounded model for AI-era reasoning, governance, and structured
+  machine-readable artifacts.
